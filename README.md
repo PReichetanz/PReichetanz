@@ -3,10 +3,9 @@
 
 - 🌱 I’m currently learning **React** and **Typescript** participating in a Web Development Bootcamp at _[neue fische GmbH, HH](https://www.neuefische.de/)._
 
-<img align="right" src="https://raw.githubusercontent.com/preichetanz/preichetanz/main/img/penguin.jpg" width="200"></img>
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=preichetanz&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+<div align="center">🐧</div>
 <!--
 **PReichetanz/PReichetanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +19,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
