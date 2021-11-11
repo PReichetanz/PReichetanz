@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm Paul. 👋</h1>
+<h3 align="center">I'm a former classicist and a passionate web developer from Germany</h3>
+
+- 🌱 I’m currently learning **React** and **Typescript** participating in a Web Development Bootcamp at *[neue fische GmbH, HH](https://www.neuefische.de/).*
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=preichetanz&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 
 <!--
 **PReichetanz/PReichetanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
