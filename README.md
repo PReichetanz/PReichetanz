@@ -7,15 +7,13 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=preichetanz&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
-![Metrics](https://metrics.lecoq.io/PReichetanz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FBerlin)
-
 <div align="center">
 <span>🐧</span>
 <span>🐧</span>
 <span>🐧</span>
 </div>
 
-
+![Metrics](https://metrics.lecoq.io/PReichetanz?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FBerlin)
 
 ## Languages and Tools:
 
