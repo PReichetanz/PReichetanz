@@ -3,8 +3,10 @@
 
 - 🌱 I’m currently a Coach for Web Development Bootcamps at _[neue fische GmbH, HH](https://www.neuefische.de/)._
 
-
+<div align="center">
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=preichetanz&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+</div>
 
 
 <div align="center">
