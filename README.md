@@ -1,7 +1,11 @@
 <h1 align="center">Hi, I'm Paul. 👋</h1>
-<h3 align="center">I'm a former classicist and a passionate web developer from Germany</h3>
+<h2 align="center">I'm a former classicist and a passionate web developer from Germany</h2>
 
-- 🌱 I’m currently a Coach for Web Development Bootcamps at _[neue fische GmbH, HH](https://www.neuefische.de/)._
+<div align="center">
+ 
+🌱 I’m currently a Coach for Web Development Bootcamps at _[neue fische GmbH, HH](https://www.neuefische.de/)._ 
+
+</div>
 
 <div align="center">
  
@@ -15,7 +19,7 @@
 <span>🐧</span>
 </div>
 
-## Languages and Tools:
+<h2 align="center">Languages and Tools:</h2>
 
 <p align="center">
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
