@@ -1,15 +1,33 @@
 <h1 align="center">Hi, I'm Paul. 👋</h1>
-<h2 align="center">I'm a former classicist and a passionate web developer from Germany</h2>
+<h2 align="center">I love to talk about ⚡️ technology ⚡️, I have a heart for 📚 educational issues 📚 <br /> and I'm a former 🏛 classicist 🏛.</h2>
 
 <div align="center">
- 
-🌱 I’m currently a Coach for Web Development Bootcamps at _[neue fische GmbH, HH](https://www.neuefische.de/)._ 
 
+Connect with me here: [![Linkedin Badge](https://img.shields.io/badge/-PaulReichetanz-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preichetanz/)](https://www.linkedin.com/in/preichetanz/)[![Gmail Badge](https://img.shields.io/badge/-paul.reichetanz@neuefische.de-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:paul.reichetanz@neuefische.de)](mailto:paul.reichetanz@neuefische.de)
+ 
 </div>
 
+- 🎣 I’m Coach for Web Development Bootcamps at _[neue fische GmbH, HH](https://www.neuefische.de/)._
+- 🚀 I use daily: 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
+- 💻 I work using:
+![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white)
+- 🌱 Learning all about:
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+- 🙈 Fun Fact: I've published two courses on Latin Grammar on Udemy.
+
+
 <div align="center">
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=preichetanz&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![PReichetanz's github stats](https://github-readme-stats.vercel.app/api?username=PReichetanz&theme=dark&show_icons=true)](https://github.com/PReichetanz)
 </div>
 
 
@@ -18,23 +36,11 @@
 <span>🐧</span>
 <span>🐧</span>
 </div>
-
-<h2 align="center">Languages and Tools:</h2>
-
-<p align="center">
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
- <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
- <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> 
- <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
  
+ 
+ <h2>Looking forward to my first contribution</h2>
+ - German Translation of React Hooks API Reference: https://github.com/reactjs/de.reactjs.org/pull/272
+
 <!--
 **PReichetanz/PReichetanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
