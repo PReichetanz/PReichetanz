@@ -1,10 +1,12 @@
 <h1 align="center">Hi, I'm Paul. 👋</h1>
 <h2 align="center">I love to talk about ⚡️ technology ⚡️, I have a heart for 📚 educational issues 📚 <br /> and I'm a former 🏛 classicist 🏛.</h2>
 
-<div align="center">
+<div align="center" >
 
-Connect with me here: [![Linkedin Badge](https://img.shields.io/badge/-PaulReichetanz-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preichetanz/)](https://www.linkedin.com/in/preichetanz/)[![Gmail Badge](https://img.shields.io/badge/-paul.reichetanz@neuefische.de-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:paul.reichetanz@neuefische.de)](mailto:paul.reichetanz@neuefische.de)
- 
+Connect with me here: 
+[![Linkedin Badge](https://img.shields.io/badge/-PaulReichetanz-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preichetanz/)](https://www.linkedin.com/in/preichetanz/)
+[![Xing Badge](https://img.shields.io/badge/-PaulReichetanz-white?style=plastic&logo=Xing&logoColor=green&link=[https://www.linkedin.com/in/preichetanz/](https://www.xing.com/profile/Paul_Reichetanz/cv))](https://www.xing.com/profile/Paul_Reichetanz/cv)
+[![Gmail Badge](https://img.shields.io/badge/-paul.reichetanz@neuefische.de-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:paul.reichetanz@neuefische.de)](mailto:paul.reichetanz@neuefische.de)
 </div>
 
 - 🎣 I’m Coach for Web Development Bootcamps at _[neue fische GmbH, HH](https://www.neuefische.de/)._
