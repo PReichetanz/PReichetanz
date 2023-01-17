@@ -40,9 +40,10 @@ Connect with me here:
 </div>
  
  
- <h2>Looking forward to my first contribution</h2>
- - German Translation of React Hooks API Reference: https://github.com/reactjs/de.reactjs.org/pull/272
-
+ <h2>Contribution</h2>
+ <p>German <a href="https://de.reactjs.org/docs/hooks-reference.html">Translation of React Hooks API Reference:</a>
+(PR: https://github.com/reactjs/de.reactjs.org/pull/272)</p>
+ 
 <!--
 **PReichetanz/PReichetanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
