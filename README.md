@@ -6,7 +6,6 @@
 Connect with me here: 
 [![Linkedin Badge](https://img.shields.io/badge/-PaulReichetanz-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/preichetanz/)](https://www.linkedin.com/in/preichetanz/)
 [![Xing Badge](https://img.shields.io/badge/-PaulReichetanz-white?style=plastic&logo=Xing&logoColor=green&link=[https://www.linkedin.com/in/preichetanz/](https://www.xing.com/profile/Paul_Reichetanz/cv))](https://www.xing.com/profile/Paul_Reichetanz/cv)
-[![Gmail Badge](https://img.shields.io/badge/-paul.reichetanz@neuefische.de-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:p.reichetanz@ime.consulting)](mailto:p.reichetanz@ime.consulting)
 </div>
 
 - 🎣 I’m a Frontend Developer and Agile Enthusiast at _IME Consulting GmbH, Lübeck_
