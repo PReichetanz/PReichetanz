@@ -19,11 +19,14 @@ Connect with me here:
 - 💻 I work using:
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=plastic&logo=Jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=plastic&logo=testing-library&logoColor=red)
 - 🌱 Learning all about:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
 - 🙈 Fun Fact: I've published two courses on Latin Grammar on Udemy.
 
 
