@@ -8,19 +8,28 @@ Connect with me here:
 [![Xing Badge](https://img.shields.io/badge/-PaulReichetanz-white?style=plastic&logo=Xing&logoColor=green&link=[https://www.linkedin.com/in/preichetanz/](https://www.xing.com/profile/Paul_Reichetanz/cv))](https://www.xing.com/profile/Paul_Reichetanz/cv)
 </div>
 
-- 🎣 I’m a Frontend Developer and Agile Enthusiast at _IME Consulting GmbH, Lübeck_
-- 🚀 I use daily: 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+- 🎣 I’m a Software Developer and Agile Enthusiast at _Penseo GmbH, Hamburg_
+- 🚀 I use daily:
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
+
+- 💻 I work using:
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=plastic&logo=ruby-on-rails&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
+![CircleCI](https://img.shields.io/badge/circle%20ci-%23161616.svg?style=plastic&logo=circleci&logoColor=white)
+
+- 🌱 Learning all about:
+
+- Formerly worked with:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-- 💻 I work using:
 ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=plastic&logo=Jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/testing%20library-323330?style=plastic&logo=testing-library&logoColor=red)
-- 🌱 Learning all about:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white)
